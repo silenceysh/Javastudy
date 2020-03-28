@@ -1,6 +1,10 @@
 public class Study {
     public static void main(String[] args) {
-        System.out.println("Javastudy");
+        int num=100;
+
+        System.out.println("This number is");
+
+        System.out.println(num);
     }
 }
 
